@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 2ed9d16355360ee498fbf839480bc45b
+timeCreated: 1455566742
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: LightDefender
+    100002: //RootNode
+    100004: LightDefenderArm_1_
+    100006: LightDefenderArm_2_
+    100008: LightDefenderGun_1_
+    100010: LightDefenderGun_2_
+    100012: LightDefenderShoulder_1_
+    100014: LightDefenderShoulder_2_
+    400000: LightDefender
+    400002: //RootNode
+    400004: LightDefenderArm_1_
+    400006: LightDefenderArm_2_
+    400008: LightDefenderGun_1_
+    400010: LightDefenderGun_2_
+    400012: LightDefenderShoulder_1_
+    400014: LightDefenderShoulder_2_
+    2300000: LightDefender
+    2300002: LightDefenderArm_1_
+    2300004: LightDefenderArm_2_
+    2300006: LightDefenderGun_1_
+    2300008: LightDefenderGun_2_
+    2300010: LightDefenderShoulder_1_
+    2300012: LightDefenderShoulder_2_
+    3300000: LightDefender
+    3300002: LightDefenderArm_1_
+    3300004: LightDefenderArm_2_
+    3300006: LightDefenderGun_1_
+    3300008: LightDefenderGun_2_
+    3300010: LightDefenderShoulder_1_
+    3300012: LightDefenderShoulder_2_
+    4300000: LightDefender
+    4300002: LightDefenderArm_1_
+    4300004: LightDefenderArm_2_
+    4300006: LightDefenderGun_1_
+    4300008: LightDefenderGun_2_
+    4300010: LightDefenderShoulder_1_
+    4300012: LightDefenderShoulder_2_
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
