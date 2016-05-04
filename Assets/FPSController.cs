@@ -5,6 +5,7 @@ using System.Text;
 
 public class FPSController : MonoBehaviour
 {
+
     float speed = 200.0f;
     // Use this for initialization
     void Start()
@@ -83,13 +84,13 @@ public class FPSController : MonoBehaviour
         {
             Strafe(Time.deltaTime * speed);
         }
-        if (Input.GetKey(KeyCode.Q))
+        if (Input.GetKey(KeyCode.R))
         {
-            Roll(-Time.deltaTime * speed);
+            Fly(Time.deltaTime * speed);
         }
-        if (Input.GetKey(KeyCode.E))
+        if (Input.GetKey(KeyCode.F))
         {
-            Roll(Time.deltaTime * speed);
+            Fly(-Time.deltaTime * speed);
         }
         //BoidManager.PrintVector("OVR Forward: ", ovrCamera.transform.forward);
 
@@ -98,8 +99,9 @@ public class FPSController : MonoBehaviour
 
 
         Yaw(mouseX);
-        
+
         // If in Rift mode, dont pitch
-        Pitch(-mouseY);        
+        Pitch(-mouseY);
+
     }
 }
